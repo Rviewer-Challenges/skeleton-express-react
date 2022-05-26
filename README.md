@@ -11,7 +11,7 @@ quickly getting started developing an API. Check the [Getting Started](#getting-
 
 ## Technologies
 
-* [Typescript 4.6](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-4.html)
+* [Typescript 4.7](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-4.html)
 * [React 17.0.2](https://es.reactjs.org/)
 * [Express 4.17](https://expressjs.com/)
 * [Yarn](https://yarnpkg.com/)

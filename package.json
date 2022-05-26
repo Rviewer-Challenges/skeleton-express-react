@@ -1,7 +1,7 @@
 {
-  "name": "vending-machine-fullstack",
+  "name": "express-react-skeleton",
   "version": "1.0.0",
-  "description": "Rviewer - DeliverApp fullstack challenge",
+  "description": "Rviewer - Fullstack skeleton with Express & React",
   "author": "Rviewer Team (help@rviewer.io)",
   "license": "MIT"
 }
